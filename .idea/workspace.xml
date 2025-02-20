@@ -5,10 +5,31 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f03fe30a-8583-4a32-903c-ae679808270f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Bai1_1/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai1_1/TestCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai2_2/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bai2_2/TestCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai2_1/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai2_1/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai2_1/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai2_2/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai2_2/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai2_2/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai2_3/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai2_3/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai2_3/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai2_4/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai2_4/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai2_4/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai2_5/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai2_5/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai2_5/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai2_6/MyPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai2_6/TestMyPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai2_7/MyLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai2_7/MyPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai2_7/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai2_8/MyCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai2_8/MyPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai2_8/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai2_9/MyTriangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai2_9/TestMain.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -35,23 +56,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Bai2_2.TestCircle.executor": "Run",
-    "Application.TestCircle.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "D:/BaiTap_Java2/src/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Bai2_2.TestCircle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestAccount.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestBall.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestCircle.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestEmployee.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestInvoiceItem.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TestTime.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/BaiTap_Java2/src/Main.java&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Bai2_2.TestCircle">
-    <configuration name="Bai2_2.TestCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bai2_2.TestCircle" />
+}</component>
+  <component name="RunManager" selected="Application.TestBall">
+    <configuration name="TestAccount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bai1_6.TestAccount" />
       <module name="BaiTap_Java2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Bai2_2.*" />
+          <option name="PATTERN" value="Bai1_6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,12 +85,51 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestCircle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Bai1_1.TestCircle" />
+    <configuration name="TestBall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bai1_9.TestBall" />
       <module name="BaiTap_Java2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Bai1_1.*" />
+          <option name="PATTERN" value="Bai1_9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestEmployee" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bai1_4.TestEmployee" />
+      <module name="BaiTap_Java2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bai1_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestInvoiceItem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bai1_5.TestInvoiceItem" />
+      <module name="BaiTap_Java2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bai1_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestTime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bai1_8.TestTime" />
+      <module name="BaiTap_Java2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Bai1_8.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,8 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Bai2_2.TestCircle" />
-        <item itemvalue="Application.TestCircle" />
+        <item itemvalue="Application.TestBall" />
+        <item itemvalue="Application.TestTime" />
+        <item itemvalue="Application.TestAccount" />
+        <item itemvalue="Application.TestInvoiceItem" />
+        <item itemvalue="Application.TestEmployee" />
       </list>
     </recent_temporary>
   </component>
@@ -89,16 +157,5 @@
       <updated>1739409318414</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
