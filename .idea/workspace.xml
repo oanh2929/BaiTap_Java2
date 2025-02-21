@@ -5,7 +5,42 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f03fe30a-8583-4a32-903c-ae679808270f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/Bai3_7/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bai3_7/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai6_1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai6_1/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai6_1/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai6_1/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai6_1/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai6_2/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai6_2/GeometricObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai6_3/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai6_3/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai6_4/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai6_4/MovableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai6_4/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai6_5/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai6_5/GeometricObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai6_5/Resizable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai6_5/ResizableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai6_5/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai6_6/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai6_6/BigDog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai6_6/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai6_6/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai6_6/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai6_8/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai6_8/MovableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai6_8/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai6_8/MovableRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai6_8/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai7_1/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai7_1/DiscountRate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai7_1/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai7_1/Visit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai7_2/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai7_2/PolyLine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai7_2/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Bai8_1/MyIntStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
